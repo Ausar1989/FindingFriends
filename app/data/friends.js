@@ -1,4 +1,5 @@
-var friends = [
+ 
+ var friends = [
     {
     name: "Kanye West",
     photo: "https://en.wikipedia.org/wiki/File:Kanye_West_at_the_2009_Tribeca_Film_Festival_(crop_2).jpg",

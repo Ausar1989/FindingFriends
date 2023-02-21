@@ -3,5 +3,24 @@
     "express": "^4.18.2",
     "nodemon": "^2.0.20",
     "path": "^0.12.7"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "findingfriends",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ausar1989/FindingFriends.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ausar1989/FindingFriends/issues"
+  },
+  "homepage": "https://github.com/Ausar1989/FindingFriends#readme"
 }
