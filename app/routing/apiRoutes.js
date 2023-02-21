@@ -19,17 +19,17 @@ module.exports = function(app) {
 
         var totalDifference;
 
-        for(var i = 0; friends.length; i++) {
+        for(var i = 0; i < friends.length; i++) {
             var currentFriend = friends[i];
             totalDifference = 0;
 
             console.log(currentFriend.name);
 
-        for(var j = 0; currentFriend.scores.length; i++) {
-            var currentFriendScores = currentFriend.scores[j];
-            var currentUserScores = userScores[j];
+        for(var j = 0; j < currentFriend.scores.length; j++) {
+            var currentFriendScore = currentFriend.scores[j];
+            var currentUserScore = userScores[j];
 
-            totalDifference += Math.abs(parseInt(currentUserScores) - parseInt(currentFriendScores));
+            totalDifference += Math.abs(parseInt(currentUserScore) - parseInt(currentFriendScore));
         }
 
         if(totalDifference <= bestMatch.friendDifference) {
@@ -42,5 +42,5 @@ module.exports = function(app) {
         friends.push(userData);
 
         res.json(bestMatch);
-    })
-}
+    });
+};

@@ -2,7 +2,7 @@
  var friends = [
     {
     name: "Kanye West",
-    photo: "https://en.wikipedia.org/wiki/File:Kanye_West_at_the_2009_Tribeca_Film_Festival_(crop_2).jpg",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Kanye_West_at_the_2009_Tribeca_Film_Festival_%28crop_2%29.jpg/330px-Kanye_West_at_the_2009_Tribeca_Film_Festival_%28crop_2%29.jpg",
     scores: [
       "5",
       "1",
@@ -18,13 +18,13 @@
     },
     {
     name: "Rihanna",
-    photo: "https://en.wikipedia.org/wiki/File:Rihanna_Fenty_2018.png",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Rihanna_Fenty_2018.png/330px-Rihanna_Fenty_2018.png",
     scores: [
         "5",
         "1",
         "4",
         "4",
-        "5",
+        "3",
         "1",
         "2",
         "5",
@@ -34,7 +34,7 @@
     },
     {
     name: "Beyonce",
-    photo: "https://en.wikipedia.org/wiki/File:Beyonc%C3%A9_at_The_Lion_King_European_Premiere_2019.png",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beyonc%C3%A9_at_The_Lion_King_European_Premiere_2019.png/330px-Beyonc%C3%A9_at_The_Lion_King_European_Premiere_2019.png",
     scores: [
       "5",
       "2",
