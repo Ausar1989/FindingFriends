@@ -5,10 +5,10 @@ This APP is for finding a Friend. there is a couple of questions asked; to find 
 This is an image of the homepage:
 ![friend](images/friends1.png)
 
-This is an image of the questionnaire for best dating suggestion:
+This is an image of the questionnaire for best friend option:
 ![friend2](images/friends2.png)
 
-This is an image of the header in the survey section of the website:
+This is an image of some the questions:
 ![friend3](images/friends3.png)
 
 # Technologies Used
